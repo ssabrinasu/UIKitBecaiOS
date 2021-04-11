@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1A3FCD6536E295F1BA79F5E7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		1ACE7A98F0A86AA33BFFFCD7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1A3FCD6536E295F1BA79F5E7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		1ACE7A98F0A86AA33BFFFCD7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		21F245C86C3DA3F2C85BCA9E /* Pods_UIKitBecaiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UIKitBecaiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		49437E2C425D3BF06090434F /* UIKitBecaiOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = UIKitBecaiOS.podspec; path = ../UIKitBecaiOS.podspec; sourceTree = "<group>"; };
+		49437E2C425D3BF06090434F /* UIKitBecaiOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = UIKitBecaiOS.podspec; path = ../UIKitBecaiOS.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5CBCA2F939C4EDFE8218E3B2 /* Pods-UIKitBecaiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIKitBecaiOS_Example.release.xcconfig"; path = "Target Support Files/Pods-UIKitBecaiOS_Example/Pods-UIKitBecaiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* UIKitBecaiOS_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitBecaiOS_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				EE2100920A2C3E92E8373704 /* Pods-UIKitBecaiOS_Tests.debug.xcconfig */,
 				C5FB32A184A53F46E175C317 /* Pods-UIKitBecaiOS_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

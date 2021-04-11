@@ -1,0 +1,16 @@
+PODS:
+  - UIKitBecaiOS (0.1.0)
+
+DEPENDENCIES:
+  - UIKitBecaiOS (from `../`)
+
+EXTERNAL SOURCES:
+  UIKitBecaiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIKitBecaiOS: c40e6d20598999099c51b320cd9996b0056ec398
+
+PODFILE CHECKSUM: 4a5389e206bb3686a424eb4ac7bdca08ee7cc419
+
+COCOAPODS: 1.10.1
